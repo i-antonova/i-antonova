@@ -111,7 +111,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=i-antonova&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5D4&fire=FEE440&currStreakLabel=00F5D4&sideLabels=00BBF9" alt="GitHub Streak"/>
@@ -128,7 +128,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-antonova&bg_color=0d1117&color=00F5D4&line=00BBF9&point=FEE440&area=true&area_color=9B5DE5&hide_border=true" width="95%" alt="Activity Graph"/>
-</p>
+</p> -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
