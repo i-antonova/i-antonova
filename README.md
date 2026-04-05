@@ -78,6 +78,17 @@
 <th>Tech Stack</th>
 <th>Stars</th>
 </tr>
+  <tr>
+<td><a href="https://github.com/i-antonova/woocommerce-external-catalog-showcase"><b>External API Catalog (WooCommerce)</b></a></td>
+<td>Case study: external supplier catalog (~4K) over REST API in WooCommerce — no DB import, CSV offers, filters, virtual cart</td>
+<td>
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+<td><img src="https://img.shields.io/github/stars/i-antonova/woocommerce-external-catalog-showcase?style=flat-square&color=FEE440"/></td>
+</tr>
 <tr>
 <td><a href="https://github.com/i-antonova/bmi-calculator-react"><b>BMI Calculator React</b></a></td>
 <td>A lightweight BMI calculator built with React, TypeScript, and Tailwind CSS</td>
