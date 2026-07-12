@@ -25,13 +25,14 @@
 
 ```yaml
 🏷️  Name:       Iryna Antonova
-💼  Role:       Junior Full-Stack Software Developer
-🎯  Focus:      React, Node.js, Java, SQL
-🔭  Building:   Full-stack web applications
-🤝  Open to:    Work on web development projects
+💼 Background:  Business Operations • ERP • E-commerce
+🎓 Tech:        Full-Stack Development Graduate (Coding Factory, AUEB)
+🎯 Focus:       Business Systems • APIs • Technical Support • Product & Process Improvement
+🔭 Learning:    Power BI • AI Tools
+🤝 Open to:     Business Systems, ERP, Technical Support, Customer Success & Product roles
 📫  Email:      antonova.mailbox@gmail.com
-📍  Location:   Athens, Greece
-🎓  Education:  Coding Factory (AUEB) Graduate
+📍 Location:    Athens, Greece
+
 ```
 
 <p align="center">
