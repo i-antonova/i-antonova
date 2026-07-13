@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=140&lines=Junior+Full-Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+SQL;Coding+Factory+Graduate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=140&lines=Full-Stack+Development+Graduate;Business+Operations+%7C+ERP+%7C+E-commerce" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -24,13 +24,13 @@
 ## 👨‍💻 About Me
 
 ```yaml
-🏷️  Name:       Iryna Antonova
+🏷️ Name:        Iryna Antonova
 💼 Background:  Business Operations • ERP • E-commerce
 🎓 Tech:        Full-Stack Development Graduate (Coding Factory, AUEB)
 🎯 Focus:       Business Systems • APIs • Technical Support • Product & Process Improvement
 🔭 Learning:    Power BI • AI Tools
 🤝 Open to:     Business Systems, ERP, Technical Support, Customer Success & Product roles
-📫  Email:      antonova.mailbox@gmail.com
+📫 Email:       antonova.mailbox@gmail.com
 📍 Location:    Athens, Greece
 
 ```
@@ -135,11 +135,9 @@
 
 ## 💡 Interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
+<p align="center">  
   <img src="https://img.shields.io/badge/-Web%20Applications-4ECDC4?style=for-the-badge&logo=web&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/-React%20Ecosystem-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Backend%20APIs-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
