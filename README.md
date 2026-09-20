@@ -135,10 +135,14 @@
 
 ## 💡 Interests
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/-Web%20Applications-4ECDC4?style=for-the-badge&logo=web&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Backend%20APIs-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Business%20Systems-4479A1?style=for-the-badge&logo=knowledgebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ERP%20%26%20Digital%20Operations-6A5ACD?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-E--commerce%20Platforms-4ECDC4?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-APIs%20%26%20Integrations-339933?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Technical%20Support-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Data%20Analysis%20%26%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Product%20%26%20Process%20Improvement-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════ -->
