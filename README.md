@@ -13,11 +13,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&height=140&lines=Full-Stack+Development+Graduate;Business+Operations+%7C+ERP+%7C+E-commerce" alt="Typing Animation" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/i-antonova"><img src="https://komarev.com/ghpvc/?username=i-antonova&label=Profile+Views&color=00BBF9&style=for-the-badge" alt="Profile views"/></a>&nbsp;
   <a href="https://github.com/i-antonova?tab=followers"><img src="https://img.shields.io/github/followers/i-antonova?label=Followers&style=for-the-badge&color=9B5DE5&logo=github&logoColor=white" alt="Followers"/></a>&nbsp;
   <a href="https://github.com/i-antonova?tab=repositories"><img src="https://img.shields.io/github/stars/i-antonova?affiliations=OWNER&style=for-the-badge&color=FEE440&logo=githubsponsors&logoColor=white" alt="Stars"/></a>
-</p>
+</p> -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
